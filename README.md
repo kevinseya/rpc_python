@@ -27,6 +27,6 @@ Luego, en una terminal separada, ejecuta el cliente:
 ```bash
 python cliente_rpc.py
 ```
-Funcionalidades
-    Servidor RPC: El servidor escucha solicitudes de clientes y ejecuta funciones remotas.
-    Cliente RPC: El cliente envía solicitudes al servidor y recibe respuestas con los resultados de las funciones ejecutadas.
+## Funcionalidades
+Servidor RPC: El servidor escucha solicitudes de clientes y ejecuta funciones remotas.
+Cliente RPC: El cliente envía solicitudes al servidor y recibe respuestas con los resultados de las funciones ejecutadas.
